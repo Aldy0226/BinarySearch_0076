@@ -74,7 +74,7 @@ void binarySearch()
     do
     {
         cout << "\n==================================\n";
-        cout << "         Pencarian Binary Search         \n";
+        cout << "         Pencarian Pada Binary Search         \n";
         cout << "==================================\n";
         cout << "Masukkan element yang ingin dicari: ";
         cin >> x;

@@ -54,7 +54,7 @@ void bubbleSortArray()
 void display()
 {
     cout << "\n==================================\n";
-    cout << "    element Array Setelah Diurutkan (Asc)    \n";
+    cout << "    Element Array Setelah Diurutkan (Asc)    \n";
     cout << "==================================\n";
     
     for (int j = 0; j < nPanjang; j++) // Menampilkan hasil pengurutan array dengan format panah untuk visualisasi urutan
